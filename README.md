@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 📊 SimDash — Um Dashboard de Dados com Espírito de The Sims 📚
 
 Este projeto nasceu da ideia de transformar análises de dados em algo mais envolvente — como construir uma casa em The Sims: escolher o terreno (dataset), levantar as paredes (API) e decorar com estilo (gráficos interativos). Criado com Python (Flask) no backend e React no frontend, este dashboard é sua vizinhança digital personalizada.
@@ -66,7 +65,9 @@ Quer simular outro bairro? Basta trocar o CSV e, se necessário, ajustar os endp
 
 📸 Prints
 
-Em construção...
+![image](https://github.com/user-attachments/assets/a5038d1f-e022-4143-9950-c7bdbf1e562e)
+![image](https://github.com/user-attachments/assets/f39ed4fd-926c-4456-8bca-87d7de853f86)
+
 
 📜 Licença
 MIT — Use, modifique, crie expansões, só não coloque fogo na casa do vizinho.
